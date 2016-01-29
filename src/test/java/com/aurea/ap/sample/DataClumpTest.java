@@ -1,4 +1,4 @@
-package com.aurea.ap;
+package com.aurea.ap.sample;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
