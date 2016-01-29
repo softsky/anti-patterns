@@ -19,8 +19,8 @@ public class DataClump {
     public static void methodThree(int a, int b, int c){
 	
     }
-
-    public static void main(char[] args){    
+    
+    public static void main(char[][] args){ 
 	methodOne(E.a, E.b, E.c);
 	methodTwo(E.a, E.b, E.c);
 	methodThree(E.a, E.b, E.c);
